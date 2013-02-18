@@ -25,7 +25,7 @@
 }
 
 #gm_main {
-	width:			600px;
+	width:			625px;
 	margin-top:		5px;
 	margin-left:	140px;
 }
@@ -93,6 +93,7 @@
 
 #home_images {
 	float:			left;
+	height:			800px;
 	margin-right:	25px;
 }
 
