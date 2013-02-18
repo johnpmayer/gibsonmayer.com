@@ -1,0 +1,125 @@
+/* GM CSS Stylesheet */
+
+#gm_sharefile {
+    margin-left: 260px;
+    background-color: #dcdcdc;
+}
+
+#form_sharefile_login {
+    padding-top: 15px;
+    padding-left: 40px;
+    padding-bottom: 15px;
+}
+
+#gm_wrapper {
+	float:				left;
+	width:				968px;
+	background-image:	url(img/gm_stripe.jpg);
+	background-repeat:	repeat-y;
+}
+	
+#gm_banner {
+	width:				968px;
+	height:				132px;
+	background-image:	url(img/gm_banner.jpg);
+}
+
+#gm_main {
+	width:			600px;
+	margin-top:		5px;
+	margin-left:	140px;
+}
+
+#gm_menu { 
+	margin:		0;
+	padding:	0;
+	height:		45px;
+}
+
+#gm_menu ul {
+	display:	inline;
+}
+
+#gm_menu li {
+	margin:				0;
+	list-style:			none;
+	float:				left;
+	color:				#6a6a6a;
+	text-decoration:	none;
+	text-transform:		uppercase;
+	margin:				0px 2px;
+}
+
+#gm_menu li a {
+	display:			block;
+	padding:			4px 4px;
+	font-family:		arial;
+	font-size:			13px;
+	background-color:	#dcdcdc;
+	color:				#6a6a6a;
+	text-decoration:	none;
+	text-transform:		uppercase;
+}
+
+#gm_menu li a:hover {
+	background-color:	rgb(41,101,75);
+	color:				#fff;
+}
+
+#gm_menu div {
+	background-color:	#fff;
+	position:			absolute;
+	visibility:			hidden;
+}
+
+#gm_menu div a {
+	width:			auto;
+	margin-top:		4px;
+	white-space:	nowrap; /* Fixes IE issue */
+}
+
+#gm_content {
+	float:			left;
+	font-family:	arial;
+	font-size:		13px;
+	color:			#6a6a6a;
+}
+
+#gm_content .profile_pic {
+	width:			275px;
+	float:			left;
+	margin-right:	25px;
+}
+
+#home_images {
+	float:			left;
+	margin-right:	25px;
+}
+
+#home_images img {
+    width:			225px;
+    margin-bottom:	25px;
+}
+
+#home_qualities {
+	float:			left;
+}
+
+#about_portraits img {
+	width:			200px;
+}
+
+#gm_content .biggreen {
+	font-size:		20px;
+	color:			rgb(41,101,75);
+}
+
+#gm_footer {
+	float:			left;
+	margin-left:	180px;
+	padding-top:	20px;
+	padding-bottom:	20px;
+	font-family:	arial;
+	font-size:		10px;
+	color:			#6a6a6a;
+}
